@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Spike-pdd.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-10T03:40:57.104Z</updated>
+    <title>杂货铺</title>
+    <updated>2020-07-10T03:46:35.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Spike-pdd.github.io"/>
     <link rel="self" href="https://Spike-pdd.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>资源搬运工</subtitle>
     <logo>https://Spike-pdd.github.io/images/avatar.png</logo>
     <icon>https://Spike-pdd.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 杂货铺</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Spike-pdd.github.io/post/hello-gridea/</id>
